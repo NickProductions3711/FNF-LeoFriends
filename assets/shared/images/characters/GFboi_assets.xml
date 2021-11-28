@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFboi_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFboi instance 10000" x="0" y="0" width="837" height="784" frameX="-1" frameY="-17" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10001" x="842" y="0" width="841" height="785" frameX="0" frameY="-17" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10002" x="1688" y="0" width="841" height="783" frameX="0" frameY="-19" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10003" x="2534" y="0" width="837" height="782" frameX="-1" frameY="-19" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10004" x="0" y="790" width="837" height="785" frameX="-1" frameY="-16" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10005" x="842" y="790" width="837" height="785" frameX="-1" frameY="-16" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10006" x="1684" y="790" width="837" height="787" frameX="-1" frameY="-14" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10007" x="2526" y="790" width="837" height="800" frameX="-1" frameY="-1" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10008" x="2526" y="790" width="837" height="800" frameX="-1" frameY="-1" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10009" x="2526" y="790" width="837" height="800" frameX="-1" frameY="-1" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10010" x="0" y="1595" width="837" height="801" frameX="-1" frameY="0" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10011" x="0" y="1595" width="837" height="801" frameX="-1" frameY="0" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10012" x="0" y="1595" width="837" height="801" frameX="-1" frameY="0" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10013" x="842" y="1595" width="837" height="800" frameX="-1" frameY="-1" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10014" x="842" y="1595" width="837" height="800" frameX="-1" frameY="-1" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10015" x="1684" y="1595" width="837" height="787" frameX="-1" frameY="-14" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10016" x="2526" y="1595" width="841" height="788" frameX="0" frameY="-14" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10017" x="0" y="2401" width="841" height="788" frameX="0" frameY="-14" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10018" x="846" y="2401" width="837" height="787" frameX="-1" frameY="-14" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10019" x="1688" y="2401" width="837" height="788" frameX="-1" frameY="-13" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10020" x="2530" y="2401" width="837" height="788" frameX="-1" frameY="-13" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10021" x="0" y="3194" width="837" height="789" frameX="-1" frameY="-12" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10022" x="842" y="3194" width="837" height="794" frameX="-1" frameY="-7" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10023" x="842" y="3194" width="837" height="794" frameX="-1" frameY="-7" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10024" x="842" y="3194" width="837" height="794" frameX="-1" frameY="-7" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10025" x="1684" y="3194" width="837" height="794" frameX="-1" frameY="-7" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10026" x="1684" y="3194" width="837" height="794" frameX="-1" frameY="-7" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10027" x="1684" y="3194" width="837" height="794" frameX="-1" frameY="-7" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10028" x="2526" y="3194" width="837" height="794" frameX="-1" frameY="-7" frameWidth="841" frameHeight="802"/>
+	<SubTexture name="GFboi instance 10029" x="2526" y="3194" width="837" height="794" frameX="-1" frameY="-7" frameWidth="841" frameHeight="802"/>
+</TextureAtlas>

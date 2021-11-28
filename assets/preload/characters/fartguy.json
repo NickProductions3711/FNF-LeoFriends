@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "fartguy-idle"
+		},
+		{
+			"offsets": [
+				-33,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fartguy-LEFT"
+		},
+		{
+			"offsets": [
+				17,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fartguy-DOWN"
+		},
+		{
+			"offsets": [
+				-41,
+				52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fartguy-up"
+		},
+		{
+			"offsets": [
+				21,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fartguy-RIGHt"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fartguy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fartguye",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		242,
+		206
+	],
+	"camera_position": [
+		90,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

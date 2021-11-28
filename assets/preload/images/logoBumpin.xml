@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ResiseAGAIN instance 10000" x="0" y="0" width="1489" height="967" frameX="-28" frameY="-25" frameWidth="1517" frameHeight="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10001" x="1494" y="0" width="1517" height="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10002" x="1494" y="0" width="1517" height="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10003" x="0" y="1022" width="1501" height="987" frameX="-16" frameY="-15" frameWidth="1517" frameHeight="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10004" x="0" y="1022" width="1501" height="987" frameX="-16" frameY="-15" frameWidth="1517" frameHeight="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10005" x="1506" y="1022" width="1496" height="979" frameX="-21" frameY="-19" frameWidth="1517" frameHeight="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10006" x="1506" y="1022" width="1496" height="979" frameX="-21" frameY="-19" frameWidth="1517" frameHeight="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10007" x="1506" y="1022" width="1496" height="979" frameX="-21" frameY="-19" frameWidth="1517" frameHeight="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10008" x="1506" y="1022" width="1496" height="979" frameX="-21" frameY="-19" frameWidth="1517" frameHeight="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10009" x="1506" y="1022" width="1496" height="979" frameX="-21" frameY="-19" frameWidth="1517" frameHeight="1017"/>
+	<SubTexture name="ResiseAGAIN instance 10010" x="1506" y="1022" width="1496" height="979" frameX="-21" frameY="-19" frameWidth="1517" frameHeight="1017"/>
+</TextureAtlas>

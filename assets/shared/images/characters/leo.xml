@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leo-DOWN instance 10000" x="0" y="0" width="664" height="542" frameX="0" frameY="-232" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10001" x="669" y="0" width="540" height="694" frameX="-124" frameY="0" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10002" x="1214" y="0" width="560" height="612" frameX="-104" frameY="-82" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10003" x="1779" y="0" width="559" height="621" frameX="-105" frameY="-73" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10004" x="2343" y="0" width="555" height="638" frameX="-109" frameY="-56" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10005" x="2903" y="0" width="557" height="628" frameX="-107" frameY="-66" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10006" x="3465" y="0" width="557" height="629" frameX="-107" frameY="-65" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10007" x="4027" y="0" width="556" height="631" frameX="-108" frameY="-63" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10008" x="4588" y="0" width="557" height="629" frameX="-107" frameY="-65" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10009" x="5150" y="0" width="557" height="630" frameX="-107" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10010" x="5712" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10011" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10012" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10013" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10014" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10015" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10016" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10017" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10018" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10019" x="6273" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10020" x="6834" y="0" width="494" height="652" frameX="-170" frameY="-42" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10021" x="7333" y="0" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10022" x="0" y="699" width="496" height="652" frameX="-168" frameY="-42" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10023" x="501" y="699" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10024" x="1062" y="699" width="503" height="652" frameX="-161" frameY="-42" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10025" x="1570" y="699" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10026" x="2131" y="699" width="500" height="652" frameX="-164" frameY="-42" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10027" x="2636" y="699" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10028" x="3197" y="699" width="526" height="652" frameX="-138" frameY="-42" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-DOWN instance 10029" x="3728" y="699" width="556" height="630" frameX="-108" frameY="-64" frameWidth="664" frameHeight="774"/>
+	<SubTexture name="leo-LEFT  instance 10000" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10001" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10002" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10003" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10004" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10005" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10006" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10007" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10008" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10009" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10010" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10011" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10012" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10013" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10014" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10015" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10016" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10017" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10018" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10019" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10020" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10021" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10022" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10023" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10024" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10025" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10026" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10027" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10028" x="4289" y="699" width="454" height="787"/>
+	<SubTexture name="leo-LEFT  instance 10029" x="4748" y="699" width="454" height="787"/>
+	<SubTexture name="leo-RIGHT instance 10000" x="5207" y="699" width="410" height="758" frameX="-37" frameY="-9" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10001" x="5622" y="699" width="520" height="625" frameX="0" frameY="-142" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10002" x="6147" y="699" width="387" height="767" frameX="-129" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10003" x="6539" y="699" width="339" height="734" frameX="-176" frameY="-33" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10004" x="6883" y="699" width="376" height="766" frameX="-140" frameY="-1" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10005" x="7264" y="699" width="399" height="764" frameX="-118" frameY="-3" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10006" x="7668" y="699" width="386" height="767" frameX="-130" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10007" x="0" y="1491" width="377" height="766" frameX="-139" frameY="-1" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10008" x="382" y="1491" width="380" height="767" frameX="-136" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10009" x="767" y="1491" width="384" height="767" frameX="-132" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10010" x="1156" y="1491" width="383" height="767" frameX="-133" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10011" x="1544" y="1491" width="381" height="767" frameX="-135" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10012" x="1930" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10013" x="2317" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10014" x="2704" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10015" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10016" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10017" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10018" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10019" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10020" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10021" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10022" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10023" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10024" x="3091" y="1491" width="382" height="767" frameX="-134" frameY="0" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10025" x="3478" y="1491" width="387" height="759" frameX="-137" frameY="-11" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10026" x="3870" y="1491" width="399" height="731" frameX="-147" frameY="-48" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10027" x="4274" y="1491" width="420" height="677" frameX="-165" frameY="-122" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10028" x="4699" y="1491" width="451" height="592" frameX="-190" frameY="-250" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-RIGHT instance 10029" x="5155" y="1491" width="512" height="543" frameX="-200" frameY="-465" frameWidth="712" frameHeight="1008"/>
+	<SubTexture name="leo-dead-01 instance 10000" x="5672" y="1491" width="497" height="651" frameX="-245" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10001" x="5672" y="1491" width="497" height="651" frameX="-245" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10002" x="6174" y="1491" width="494" height="651" frameX="-207" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10003" x="6174" y="1491" width="494" height="651" frameX="-207" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10004" x="6673" y="1491" width="491" height="651" frameX="-218" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10005" x="6673" y="1491" width="491" height="651" frameX="-218" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10006" x="6673" y="1491" width="491" height="651" frameX="-218" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10007" x="7169" y="1491" width="493" height="651" frameX="-198" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10008" x="7169" y="1491" width="493" height="651" frameX="-198" frameY="-16" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10009" x="7667" y="1491" width="322" height="562" frameX="-131" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10010" x="7667" y="1491" width="322" height="562" frameX="-131" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10011" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10012" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10013" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10014" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10015" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10016" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10017" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10018" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10019" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10020" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10021" x="0" y="2263" width="321" height="562" frameX="-150" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10022" x="326" y="2263" width="320" height="562" frameX="-174" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10023" x="326" y="2263" width="320" height="562" frameX="-174" frameY="-71" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10024" x="651" y="2263" width="330" height="655" frameX="-133" frameY="0" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10025" x="651" y="2263" width="330" height="655" frameX="-133" frameY="0" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10026" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10027" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10028" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10029" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10030" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10031" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10032" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10033" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10034" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10035" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10036" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10037" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10038" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10039" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10040" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10041" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10042" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10043" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10044" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10045" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10046" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10047" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10048" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10049" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10050" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10051" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10052" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10053" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10054" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10055" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10056" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10057" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10058" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10059" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10060" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10061" x="986" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10062" x="1321" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10063" x="1321" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10064" x="1321" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10065" x="1321" y="2263" width="330" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10066" x="1656" y="2263" width="361" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10067" x="1656" y="2263" width="361" height="637" frameX="-133" frameY="-18" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10068" x="2022" y="2263" width="559" height="600" frameX="-38" frameY="-40" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10069" x="2022" y="2263" width="559" height="600" frameX="-38" frameY="-40" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10070" x="2586" y="2263" width="542" height="609" frameX="-29" frameY="-31" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10071" x="2586" y="2263" width="542" height="609" frameX="-29" frameY="-31" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10072" x="2586" y="2263" width="542" height="609" frameX="-29" frameY="-31" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10073" x="3133" y="2263" width="543" height="605" frameX="0" frameY="-38" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10074" x="3133" y="2263" width="543" height="605" frameX="0" frameY="-38" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10075" x="3681" y="2263" width="543" height="606" frameX="-6" frameY="-37" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10076" x="3681" y="2263" width="543" height="606" frameX="-6" frameY="-37" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10077" x="4229" y="2263" width="539" height="609" frameX="-57" frameY="-32" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10078" x="4229" y="2263" width="539" height="609" frameX="-57" frameY="-32" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10079" x="4773" y="2263" width="542" height="610" frameX="-31" frameY="-33" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10080" x="4773" y="2263" width="542" height="610" frameX="-31" frameY="-33" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10081" x="5320" y="2263" width="499" height="601" frameX="-92" frameY="-26" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10082" x="5824" y="2263" width="554" height="553" frameX="-95" frameY="-74" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10083" x="6383" y="2263" width="683" height="412" frameX="-109" frameY="-215" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10084" x="7071" y="2263" width="829" height="269" frameX="-4" frameY="-435" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10085" x="7071" y="2263" width="829" height="269" frameX="-4" frameY="-435" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10086" x="0" y="2923" width="829" height="338" frameX="-4" frameY="-366" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10087" x="0" y="2923" width="829" height="338" frameX="-4" frameY="-366" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10088" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10089" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10090" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10091" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10092" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10093" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10094" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10095" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10096" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10097" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10098" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10099" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10100" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10101" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-01 instance 10102" x="834" y="2923" width="829" height="325" frameX="-4" frameY="-379" frameWidth="833" frameHeight="704"/>
+	<SubTexture name="leo-dead-02 instance 10000" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10001" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10002" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10003" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10004" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10005" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10006" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10007" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10008" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10009" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10010" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10011" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10012" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10013" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10014" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10015" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10016" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10017" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10018" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10019" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10020" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10021" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10022" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10023" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10024" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10025" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10026" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10027" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10028" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-dead-02 instance 10029" x="1668" y="2923" width="829" height="325"/>
+	<SubTexture name="leo-idle instance 10000" x="2502" y="2923" width="314" height="831" frameX="-26" frameY="-2" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10001" x="2821" y="2923" width="309" height="830" frameX="-26" frameY="-3" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10002" x="3135" y="2923" width="307" height="830" frameX="-27" frameY="-3" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10003" x="3447" y="2923" width="307" height="830" frameX="-28" frameY="-3" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10004" x="3759" y="2923" width="307" height="830" frameX="-27" frameY="-3" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10005" x="4071" y="2923" width="306" height="831" frameX="-23" frameY="-2" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10006" x="4382" y="2923" width="306" height="833" frameX="-14" frameY="0" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10007" x="4693" y="2923" width="306" height="830" frameX="0" frameY="-3" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10008" x="5004" y="2923" width="306" height="831" frameX="-3" frameY="-2" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10009" x="5315" y="2923" width="306" height="831" frameX="-4" frameY="-2" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10010" x="5626" y="2923" width="306" height="832" frameX="-5" frameY="-1" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10011" x="5937" y="2923" width="307" height="831" frameX="-3" frameY="-2" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10012" x="6249" y="2923" width="306" height="831" frameX="-1" frameY="-2" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10013" x="6560" y="2923" width="307" height="831" frameX="-1" frameY="-2" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10014" x="6872" y="2923" width="307" height="832" frameX="-6" frameY="-1" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10015" x="7184" y="2923" width="307" height="832" frameX="-19" frameY="-1" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10016" x="7496" y="2923" width="310" height="821" frameX="-41" frameY="-12" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10017" x="7811" y="2923" width="320" height="823" frameX="-28" frameY="-10" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10018" x="0" y="3761" width="308" height="824" frameX="-38" frameY="-9" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10019" x="313" y="3761" width="308" height="825" frameX="-38" frameY="-8" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10020" x="626" y="3761" width="308" height="823" frameX="-39" frameY="-10" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10021" x="939" y="3761" width="309" height="822" frameX="-41" frameY="-11" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10022" x="1253" y="3761" width="308" height="824" frameX="-39" frameY="-9" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10023" x="1566" y="3761" width="328" height="830" frameX="-27" frameY="-3" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10024" x="1899" y="3761" width="371" height="830" frameX="-1" frameY="-3" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10025" x="2275" y="3761" width="358" height="832" frameX="-5" frameY="-1" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10026" x="2638" y="3761" width="360" height="832" frameX="-8" frameY="-1" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10027" x="3003" y="3761" width="368" height="832" frameX="-9" frameY="-1" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10028" x="3376" y="3761" width="368" height="832" frameX="-10" frameY="-1" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-idle instance 10029" x="3749" y="3761" width="365" height="833" frameX="-15" frameY="0" frameWidth="380" frameHeight="833"/>
+	<SubTexture name="leo-up instance 10000" x="4119" y="3761" width="662" height="759" frameX="0" frameY="-585" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10001" x="4786" y="3761" width="394" height="1342" frameX="-93" frameY="0" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10002" x="5185" y="3761" width="660" height="797" frameX="-26" frameY="-533" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10003" x="5850" y="3761" width="611" height="931" frameX="-55" frameY="-410" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10004" x="6466" y="3761" width="594" height="968" frameX="-63" frameY="-375" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10005" x="7065" y="3761" width="617" height="916" frameX="-52" frameY="-424" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10006" x="0" y="5108" width="607" height="942" frameX="-57" frameY="-400" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10007" x="612" y="5108" width="609" height="937" frameX="-56" frameY="-404" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10008" x="1226" y="5108" width="609" height="934" frameX="-56" frameY="-407" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10009" x="1840" y="5108" width="609" height="938" frameX="-56" frameY="-404" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10010" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10011" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10012" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10013" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10014" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10015" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10016" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10017" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10018" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10019" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10020" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10021" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10022" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10023" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10024" x="2454" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10025" x="3068" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10026" x="3068" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10027" x="3682" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+	<SubTexture name="leo-up instance 10028" x="4296" y="5108" width="609" height="936" frameX="-56" frameY="-405" frameWidth="686" frameHeight="1344"/>
+</TextureAtlas>

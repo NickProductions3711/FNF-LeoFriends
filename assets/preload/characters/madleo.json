@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "leo-idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				41,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leo-LEFT"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "leo-RIGHT"
+		},
+		{
+			"offsets": [
+				47,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "leo-DOWN"
+		},
+		{
+			"offsets": [
+				53,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "leo-up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mad-leo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Madleo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

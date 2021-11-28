@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "leo-idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leo-LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "leo-DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				358
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "leo-up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				94,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "leo-RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-109
+			],
+			"anim": "leoform",
+			"fps": 24,
+			"name": "leo-dead-01",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				-374
+			],
+			"anim": "leodeathlol",
+			"fps": 24,
+			"name": "leo-dead-02",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/leo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "leo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		242,
+		206
+	],
+	"camera_position": [
+		-70,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
