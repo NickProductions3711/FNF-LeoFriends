@@ -1,5 +1,7 @@
 package;
 
+import flash.events.Event;
+import openfl.Lib;
 import flixel.FlxG;
 import flixel.FlxObject;
 import flixel.FlxSubState;
@@ -26,6 +28,11 @@ class GameOverSubstate extends MusicBeatSubstate
 	public static var loopSoundName:String = 'gameOver';
 	public static var endSoundName:String = 'gameOverEnd';
 
+	public static var prevWinW:Int;
+	public static var prevWinH:Int;
+	public static var prevWinX:Int;
+	public static var prevWinY:Int;
+
 	public static function resetVariables() {
 		characterName = 'bf';
 		deathSoundName = 'fnf_loss_sfx';
@@ -35,11 +42,15 @@ class GameOverSubstate extends MusicBeatSubstate
 
 	public function new(x:Float, y:Float, camX:Float, camY:Float, state:PlayState)
 	{
+		
+		
 		lePlayState = state;
 		state.setOnLuas('inGameOver', true);
 		super();
 
 		Conductor.songPosition = 0;
+
+		
 
 		bf = new Boyfriend(x, y, characterName);
 		add(bf);
@@ -64,8 +75,10 @@ class GameOverSubstate extends MusicBeatSubstate
 
 	override function update(elapsed:Float)
 	{
+		
 		super.update(elapsed);
 
+		
 		lePlayState.callOnLuas('onUpdate', [elapsed]);
 		if(updateCamera) {
 			var lerpVal:Float = CoolUtil.boundTo(elapsed * 0.6, 0, 1);

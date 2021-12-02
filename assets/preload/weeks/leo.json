@@ -2,13 +2,14 @@
 	"storyName": "leo",
 	"hideFreeplay": false,
 	"weekBackground": "leoroom",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"",
 		"",
@@ -23,26 +24,7 @@
 				113,
 				253
 			]
-		],
-		[
-			"bot",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"dread",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "leo"
 }

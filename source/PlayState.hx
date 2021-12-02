@@ -1,5 +1,6 @@
 package;
 
+import flixel.input.keyboard.FlxKey;
 #if desktop
 import Discord.DiscordClient;
 #end
@@ -223,6 +224,11 @@ class PlayState extends MusicBeatState
 	var wiggleShit:WiggleEffect = new WiggleEffect();
 	var bgGhouls:BGSprite;
 
+
+	public var previousWindowX:Int = Lib.application.window.x;
+	public var previousWindowY:Int = Lib.application.window.y;
+	
+
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
 	public var songMisses:Int = 0;
@@ -262,10 +268,16 @@ class PlayState extends MusicBeatState
 	private var luaDebugGroup:FlxTypedGroup<DebugLuaText>;
 	public var introSoundsSuffix:String = '';
 
+
+
 	public static var isDying:Bool = false;
 
 	override public function create()
 	{
+
+
+
+
 		#if MODS_ALLOWED
 		Paths.destroyLoadedImages(resetSpriteCache);
 		#end
@@ -1894,6 +1906,12 @@ class PlayState extends MusicBeatState
 	override public function update(elapsed:Float)
 	{
 
+		if(health == 0 && curStage == 'housedeleo')
+		{
+
+
+
+		}
 		if(curStage == 'dread')
 		{
 			if(deCancell.alpha >= 0)
@@ -2200,6 +2218,7 @@ class PlayState extends MusicBeatState
 		// RESET = Quick Game Over Screen
 		if (controls.RESET && !inCutscene && !endingSong)
 		{
+
 			health = 0;
 			trace("RESET = True");
 		}
@@ -2484,12 +2503,19 @@ class PlayState extends MusicBeatState
 				boyfriend.stunned = true;
 				deathCounter++;
 
+				if(curStage == 'housedeleo')
+				{
+					Lib.application.window.move(320, 180);
+					Lib.application.window.resize(1280, 720);
+				}
+				
 				persistentUpdate = false;
 				persistentDraw = false;
 				paused = true;
 
 				vocals.stop();
 				FlxG.sound.music.stop();
+
 
 				openSubState(new GameOverSubstate(boyfriend.getScreenPosition().x, boyfriend.getScreenPosition().y, camFollowPos.x, camFollowPos.y, this));
 				for (tween in modchartTweens) {
@@ -3089,7 +3115,7 @@ class PlayState extends MusicBeatState
 				if(FlxTransitionableState.skipNextTransIn) {
 					CustomFadeTransition.nextCamera = null;
 				}
-				MusicBeatState.switchState(new FreeplayState());
+				MusicBeatState.switchState(new MainMenuState());
 				FlxG.sound.playMusic(Paths.music('freakyMenu'));
 				usedPractice = false;
 				changedDifficulty = false;
@@ -3627,6 +3653,7 @@ class PlayState extends MusicBeatState
 
 		if(note.noteType == 'Troll Note')
 		{
+			
 			randomXScreen = FlxG.random.int(0, 1920);
 			randomYScreen = FlxG.random.int(0, 1080);
 			Lib.application.window.move(randomXScreen, randomYScreen);

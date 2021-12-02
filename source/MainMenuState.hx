@@ -19,6 +19,7 @@ import flixel.util.FlxColor;
 import lime.app.Application;
 import Achievements;
 import editors.MasterEditorMenu;
+import flixel.input.keyboard.FlxKey;
 
 using StringTools;
 
@@ -36,6 +37,11 @@ class MainMenuState extends MusicBeatState
 	var magenta:FlxSprite;
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
+
+	var botSongCombination:Array<FlxKey> = [FlxKey.B, FlxKey.O, FlxKey.T];
+	var sadSongCombination:Array<FlxKey> = [FlxKey.S, FlxKey.A, FlxKey.D];
+	var lastKeysPressed:Array<FlxKey> = [];
+	var lastKeysPressed2:Array<FlxKey> = [];
 
 	override function create()
 	{
@@ -149,11 +155,104 @@ class MainMenuState extends MusicBeatState
 
 	override function update(elapsed:Float)
 	{
+		//Secret Song Stuff for SAD
+		var finalKey:FlxKey = FlxG.keys.firstJustPressed();
+		if(finalKey != FlxKey.NONE) {
+			lastKeysPressed.push(finalKey); //Convert int to FlxKey
+			if(lastKeysPressed.length > sadSongCombination.length)
+			{
+				lastKeysPressed.shift();
+			}
+			
+			if(lastKeysPressed.length == sadSongCombination.length)
+			{
+				var isDifferent:Bool = false;
+				for (i in 0...lastKeysPressed.length) {
+					if(lastKeysPressed[i] != sadSongCombination[i]) {
+						isDifferent = true;
+						break;
+					}
+				}
+
+				if(!isDifferent) {
+					trace('Easter egg triggered!');
+					FlxG.save.data.psykaEasterEgg = !FlxG.save.data.psykaEasterEgg;
+					FlxG.sound.play(Paths.sound('secretSound'));
+
+					var black:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+					black.alpha = 0;
+					//add(black);
+
+					FlxTween.tween(black, {alpha: 1}, 0.5, {onComplete:
+						function(twn:FlxTween) {
+							FlxTransitionableState.skipNextTransIn = false;
+							FlxTransitionableState.skipNextTransOut = false;
+							PlayState.SONG = Song.loadFromJson(Highscore.formatSong('Dread', 2), 'dread');
+							PlayState.isStoryMode = false;
+							PlayState.storyDifficulty = 2;
+							LoadingState.loadAndSwitchState(new PlayState());
+							
+						}
+					});
+					lastKeysPressed = [];
+					
+				}
+			}
+		}
+		//END SAD STUFF
+
+
+		//Secret Song Stuff forBOT
+		var finalKey2:FlxKey = FlxG.keys.firstJustPressed();
+		if(finalKey2 != FlxKey.NONE) {
+			lastKeysPressed2.push(finalKey2); //Convert int to FlxKey
+			if(lastKeysPressed2.length > botSongCombination.length)
+			{
+				lastKeysPressed2.shift();
+			}
+			
+			if(lastKeysPressed2.length == botSongCombination.length)
+			{
+				var isDifferent2:Bool = false;
+				for (i in 0...lastKeysPressed2.length) {
+					if(lastKeysPressed2[i] != botSongCombination[i]) {
+						isDifferent2 = true;
+						break;
+					}
+				}
+
+				if(!isDifferent2) {
+					trace('Easter egg triggered!');
+					FlxG.save.data.psykaEasterEgg = !FlxG.save.data.psykaEasterEgg;
+					FlxG.sound.play(Paths.sound('secretSound'));
+
+					var black:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+					black.alpha = 0;
+					//add(black);
+
+					FlxTween.tween(black, {alpha: 1}, 0.5, {onComplete:
+						function(twn:FlxTween) {
+							FlxTransitionableState.skipNextTransIn = false;
+							FlxTransitionableState.skipNextTransOut = false;
+							PlayState.SONG = Song.loadFromJson(Highscore.formatSong('Bot', 2), 'bot');
+							PlayState.isStoryMode = false;
+							PlayState.storyDifficulty = 2;
+							LoadingState.loadAndSwitchState(new PlayState());
+							
+						}
+					});
+					lastKeysPressed2 = [];
+					
+				}
+			}
+		}
+		//END SAD STUFF
+
 
 		#if debug
 		if(FlxG.keys.justPressed.F)
 		{
-			MusicBeatState.switchState(new FreeplayState());
+			//MusicBeatState.switchState(new FreeplayState());
 		}
 		#end
 		if (FlxG.sound.music.volume < 0.8)
@@ -225,7 +324,7 @@ class MainMenuState extends MusicBeatState
 									case 'story_mode':
 										MusicBeatState.switchState(new StoryMenuState());
 									case 'freeplay':
-										MusicBeatState.switchState(new FreeplayState());
+										//MusicBeatState.switchState(new FreeplayState());
 									case 'awards':
 										MusicBeatState.switchState(new AchievementsMenuState());
 									case 'credits':
